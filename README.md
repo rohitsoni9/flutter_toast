@@ -13,10 +13,10 @@ and the Flutter guide for
 
 # Flutter Toast
 
-[![pub package](https://img.shields.io/pub/v/flutter_toast.svg)](https://pub.dev/packages/flutter_toast)
-[![likes](https://img.shields.io/pub/likes/flutter_toast)](https://pub.dev/packages/flutter_toast/score)
-[![popularity](https://img.shields.io/pub/popularity/flutter_toast)](https://pub.dev/packages/flutter_toast/score)
-[![pub points](https://img.shields.io/pub/points/flutter_toast)](https://pub.dev/packages/flutter_toast/score)
+[![pub package](https://img.shields.io/pub/v/flutter_toast_plus.svg)](https://pub.dev/packages/flutter_toast_plus)
+[![likes](https://img.shields.io/pub/likes/flutter_toast_plus)](https://pub.dev/packages/flutter_toast_plus/score)
+[![popularity](https://img.shields.io/pub/popularity/flutter_toast_plus)](https://pub.dev/packages/flutter_toast_plus/score)
+[![pub points](https://img.shields.io/pub/points/flutter_toast_plus)](https://pub.dev/packages/flutter_toast_plus/score)
 
 A highly customizable Flutter toast package that provides various types of toast notifications with beautiful animations and styles.
 
@@ -37,7 +37,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_toast: ^1.0.0
+  flutter_toast_plus: ^1.0.0
 ```
 
 ## Usage
