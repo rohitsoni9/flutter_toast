@@ -13,6 +13,11 @@ and the Flutter guide for
 
 # Flutter Toast
 
+[![pub package](https://img.shields.io/pub/v/flutter_toast.svg)](https://pub.dev/packages/flutter_toast)
+[![likes](https://img.shields.io/pub/likes/flutter_toast)](https://pub.dev/packages/flutter_toast/score)
+[![popularity](https://img.shields.io/pub/popularity/flutter_toast)](https://pub.dev/packages/flutter_toast/score)
+[![pub points](https://img.shields.io/pub/points/flutter_toast)](https://pub.dev/packages/flutter_toast/score)
+
 A highly customizable Flutter toast package that provides various types of toast notifications with beautiful animations and styles.
 
 ## Features
