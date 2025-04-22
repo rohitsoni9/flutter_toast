@@ -1,6 +1,6 @@
 name: flutter_toast_plus
 description: "A highly customizable Flutter toast package that provides various types of toast notifications with beautiful animations and styles."
-version: 1.0.0
+version: 2.0.0
 homepage: https://github.com/rohitsoni9/flutter_toast.git
 repository: https://github.com/rohitsoni9/flutter_toast.git
 issue_tracker: https://github.com/rohitsoni9/flutter_toast/issues
