@@ -1,0 +1,19 @@
+name: flutter_toast
+description: "A highly customizable Flutter toast package that provides various types of toast notifications with beautiful animations and styles."
+version: 1.0.0
+homepage: https://github.com/rohitsoni9/flutter_toast.git
+repository: https://github.com/rohitsoni9/flutter_toast.git
+issue_tracker: https://github.com/rohitsoni9/flutter_toast/issues
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
