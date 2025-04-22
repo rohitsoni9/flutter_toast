@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_toast:
+  flutter_toast_plus:
     path: ../
 
 dev_dependencies:
